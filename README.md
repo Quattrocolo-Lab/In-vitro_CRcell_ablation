@@ -1,5 +1,3 @@
-v0
-
 For AP_properties_FI_curves.py use files from "AP_properties_Control/Experimental"
 
 For FI_curve_preprocess.py use files from "FI_curve_preprocess_Control/Experimental"
